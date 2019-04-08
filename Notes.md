@@ -1,22 +1,22 @@
-# Software Requirements Specifications (SRS)
+## Software Requirements Specifications (SRS)
 - Set of all behaviors of a system to be developed.
 
-# Product Description
+## Product Description
 
-# Use Cases
+## Use Cases
 - All possible user interactions with the system.
 
-# Functional Requirements
+## Functional Requirements
 - What the system should do.
 - All desired operations of the system.
 - ie. Calculator functions, 
 
-# Nonfunctional Requirements
+## Nonfunctional Requirements
 - How the system performs operations.
 - System qualities, attributes, characteristics
 - ie. Scalability, response time, usability, memory storage
 
-# Test Plan
+## Test Plan
 - Dynamic document that is constantly updated within testing deliverables.
 - Plan for all testing activities to be done to deliver quality software
 - Describes what to test and not what to test, how to test, and who will perform the test.
